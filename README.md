@@ -7,7 +7,7 @@ This notebook demonstrates how to fine-tune a pre-trained Llama-2 7B model using
 Fine-tuning large language models (LLMs) plays an integral role in today's application of AI models, and while it allows a larger model to be adapted for specific use cases with less resources, it still remains resource-intensive for many applications. Throughout this notebook, we examine the integration of Quantized Low-Rank Adaptation (QLoRA) and Flash Attention to address these challenges. By leveraging sub-4-bit quantization with LoRA and flash attention for efficient attention computation, we observed substantial improvements in memory usage and training speed for fine-tuning. 
 
 ## Outline of repository
-This repo contains a single file called experiments.ipynb. It can be connected to a machine or container with the appropriate settings, and executed in order.
+This repo contains a single file called experiment.ipynb. It can be connected to a machine or container with the appropriate settings, and executed in order.
 
 ## Dependencies
 
