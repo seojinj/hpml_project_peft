@@ -33,3 +33,12 @@ Execute the cells in order as directed by the text in the notebook file. To ensu
 By executing the experiments outlined in the notebook, we observe the following experimental results:
 
 ![image](https://github.com/user-attachments/assets/fda415d9-90f3-42ba-a9ae-f1a085c348fc)
+
+
+## References
+[1] Kim, J., Lee, J. H., Kim, S., Park, J., Yoo, K. M., Kwon, S. J., & Lee, D. (2024). Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization. Advances in Neural Information Processing Systems, 36.
+[2] Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: efficient finetuning of quantized LLMs (2023). arXiv preprint arXiv:2305.14314, 52, 3982-3992.
+[3] Pu, G., Jain, A., Yin, J., & Kaplan, R. (2023). Empirical analysis of the strengths and weaknesses of PEFT techniques for LLMs. arXiv preprint arXiv:2304.14999.
+[4] Dao, T. (2023). Flashattention-2: Faster attention with better parallelism and work partitioning (2023). arXiv preprint arXiv:2307.08691.
+[5] Artetxe, M., & Others. (n.d.). QLoRA: Efficient finetuning of quantized LLMs [GitHub repository]. GitHub. Retrieved December 20, 2024, from https://github.com/artidoro/qlora
+[6] Hugging Face. (n.d.). Models - Hugging Face documentation. Retrieved December 20, 2024, from https://huggingface.co/docs/hub/en/models-libraries
